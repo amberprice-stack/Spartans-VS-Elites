@@ -1,0 +1,3 @@
+﻿  Combat Simulator.cpp
+C:\Users\Amber\Documents\Visual Studio 2019\Combat Simulator\Combat Simulator\Combat Simulator.cpp(80,53): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Combat Simulator.vcxproj -> C:\Users\Amber\Documents\Visual Studio 2019\Combat Simulator\Debug\Combat Simulator.exe
